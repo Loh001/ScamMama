@@ -1,0 +1,2 @@
+# ScamMama
+SimplifyNext AgenticAI submission
